@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/DLMLFLOW/mlruns/748682491156821742/73b5b660147f49c6a597a1801b70b7e9/artifacts
+end_time: 1736456524658
+entry_point_name: ''
+experiment_id: '748682491156821742'
+lifecycle_stage: active
+run_id: 73b5b660147f49c6a597a1801b70b7e9
+run_name: receptive-lark-600
+run_uuid: 73b5b660147f49c6a597a1801b70b7e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736456488713
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/DLMLFLOW/mlruns/748682491156821742/406c081d809640c4b870ef25cb4b7ad1/artifacts
+end_time: 1736456511871
+entry_point_name: ''
+experiment_id: '748682491156821742'
+lifecycle_stage: active
+run_id: 406c081d809640c4b870ef25cb4b7ad1
+run_name: popular-roo-916
+run_uuid: 406c081d809640c4b870ef25cb4b7ad1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736456505218
+status: 3
+tags: []
+user_id: codespace

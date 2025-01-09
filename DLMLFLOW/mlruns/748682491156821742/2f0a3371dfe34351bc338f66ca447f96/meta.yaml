@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/DLMLFLOW/mlruns/748682491156821742/2f0a3371dfe34351bc338f66ca447f96/artifacts
+end_time: 1736456505196
+entry_point_name: ''
+experiment_id: '748682491156821742'
+lifecycle_stage: active
+run_id: 2f0a3371dfe34351bc338f66ca447f96
+run_name: exultant-sloth-197
+run_uuid: 2f0a3371dfe34351bc338f66ca447f96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736456498632
+status: 3
+tags: []
+user_id: codespace

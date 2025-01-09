@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/DLMLFLOW/mlruns/748682491156821742/71fcdaa1c43b4ca9942c97464f26a2c0/artifacts
+end_time: 1736456498588
+entry_point_name: ''
+experiment_id: '748682491156821742'
+lifecycle_stage: active
+run_id: 71fcdaa1c43b4ca9942c97464f26a2c0
+run_name: fortunate-shrimp-340
+run_uuid: 71fcdaa1c43b4ca9942c97464f26a2c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736456488821
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736456704864
+current_stage: None
+description: ''
+last_updated_timestamp: 1736456704864
+name: finalmodel
+run_id: 71fcdaa1c43b4ca9942c97464f26a2c0
+run_link: ''
+source: file:///workspaces/codespaces-blank/DLMLFLOW/mlruns/748682491156821742/71fcdaa1c43b4ca9942c97464f26a2c0/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///workspaces/codespaces-blank/DLMLFLOW/mlruns/748682491156821742/71fcdaa1c43b4ca9942c97464f26a2c0/artifacts/model
+user_id: null
+version: 1

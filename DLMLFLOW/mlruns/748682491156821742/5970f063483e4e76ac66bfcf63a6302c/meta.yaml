@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/codespaces-blank/DLMLFLOW/mlruns/748682491156821742/5970f063483e4e76ac66bfcf63a6302c/artifacts
+end_time: 1736456519105
+entry_point_name: ''
+experiment_id: '748682491156821742'
+lifecycle_stage: active
+run_id: 5970f063483e4e76ac66bfcf63a6302c
+run_name: bittersweet-hog-101
+run_uuid: 5970f063483e4e76ac66bfcf63a6302c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736456511891
+status: 3
+tags: []
+user_id: codespace
